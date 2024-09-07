@@ -3,6 +3,7 @@
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Job History
+Cyber-Security Expert
 
 ## Jobs
 Cloud Engineer, DevOps Engineer, Solutions Architect and System Administrator
