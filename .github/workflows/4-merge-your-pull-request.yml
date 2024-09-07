@@ -61,4 +61,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 4
           to_step: X
-          branch_name: my-resume
+          # branch_name: my-resume
+          branch_name: ${{ github.ref }}
