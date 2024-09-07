@@ -14,30 +14,29 @@ _Learn why conflicts happen and how to resolve them._
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 3: Create your own conflict
+## Finish
 
-_Good job! You've solved a merge conflict! :tada:_
+_Congratulations friend, you've completed this course!_
 
-Resolving a conflict doesn't automatically merge the pull request in GitHub. Instead, it stores the resolution of the conflict in a merge commit and allows you and your team to keep working. To resolve a conflict, GitHub performs what is known as a _reverse merge_. This means that the changes from the `main` branch were merged into your `my-resume` branch. With a reverse merge, only the `my-resume` branch is updated. This allows you to test the resolved changes on your branch before you merge it into `main`.
+<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
 
-Now, let's get a little evil. (It's for educational purposes!)
+Here's a recap of all the tasks you've accomplished in your repository:
 
-### :keyboard: Activity: Create your own conflict
+- You learned why merge conflicts happen.
+- You resolved a simple merge conflict.
+- You created a merge conflict, and resolved it!
 
-We went ahead and added a new file called `references.md` and pushed that change to `main`, without updating your `my-resume` branch.
+### What's next?
 
-1. Browse to the `my-resume` branch.
-1. Click the `Add file` dropdown menu and then on `Create new file`.
-1. Create a file named `references.md`.
-1. Enter some text that conflicts with what we added for `references.md` in the `main` branch.
-1. Scroll to the bottom of the page and enter a commit message for your change.
-1. Click the **Commit new file** button, making sure the "Commit directly to the `my-resume` branch" option is selected.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- Make your own Markdown resume site with GitHub Pages! Learn how in our [GitHub Pages](https://github.com/skills/github-pages) course.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
