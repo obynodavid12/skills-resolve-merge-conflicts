@@ -10,8 +10,11 @@ on:
   push:
     branches:
       - my-resume
+      - add-new-name
+      - update-name
     paths:
       - "references.md"
+      - "/*"
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
@@ -55,7 +58,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Let's get all the branches.
-          ref: my-resume
+          # ref: my-resume
 
       # In README.md, switch step 2 for step 3.
       - name: Update to step 4
@@ -64,4 +67,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 3
           to_step: 4
-          branch_name: my-resume
+          # branch_name: my-resume
+          branch_name: ${{ github.ref }}
