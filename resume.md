@@ -6,7 +6,9 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 Cyber-Security Expert
 
 ## Jobs
-Cloud Engineer, DevOps Engineer, Solutions Architect and System Administrator
+
+BusinessMan
+
 
 ### GitHub Trainer
 
@@ -17,8 +19,6 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-Linux Administrator, CICD, Monitoring, Container Orchestration and Windows Administrator
-
 
 ### Education
 
