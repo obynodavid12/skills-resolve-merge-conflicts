@@ -3,7 +3,6 @@
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Job History
-Devops
 
 ## Jobs
 
@@ -17,7 +16,7 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-Linux Administrator
+DevOps Engineers
 
 ### Education
 
