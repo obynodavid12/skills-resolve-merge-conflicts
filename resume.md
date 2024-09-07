@@ -5,7 +5,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 ## Job History
 
 ## Jobs
-
+Cloud Engineer, DevOps Engineer, Solutions Architect and System Administrator
 
 ### GitHub Trainer
 
