@@ -16,7 +16,11 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
+<<<<<<< HEAD
 Linux Administrator, Windows Administrator
+=======
+Linux Administrator, CICD, Monitoring, Container Orchestration
+>>>>>>> main
 
 ### Education
 
